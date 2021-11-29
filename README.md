@@ -1,2 +1,0 @@
-# Cole
-code.org website
